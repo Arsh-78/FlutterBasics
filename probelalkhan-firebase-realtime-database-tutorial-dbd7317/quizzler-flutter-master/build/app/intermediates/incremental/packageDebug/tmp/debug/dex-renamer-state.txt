@@ -1,0 +1,4 @@
+#Mon May 09 19:29:46 IST 2022
+base.0=D\:\\Flutter\\probelalkhan-firebase-realtime-database-tutorial-dbd7317\\quizzler-flutter-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
